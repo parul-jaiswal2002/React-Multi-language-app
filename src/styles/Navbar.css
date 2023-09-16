@@ -1,0 +1,15 @@
+.navbar{
+    height: 80px;
+    background-color: white;
+    box-shadow: 0px 4px 3px 0px rgba(0, 0, 0, 0.12);
+    padding: 0 2rem;
+    background-color: rgb(237, 208, 155);
+}
+
+nav:nth-child(1){
+    font-weight: bold;
+}
+.select{
+    padding: 2px 4px;
+    color: green;
+}
